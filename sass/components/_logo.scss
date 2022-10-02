@@ -13,8 +13,7 @@
 
 .part-logo {
   color: var(--accent-color);
-
-  font-family: Raleway, sans-serif;
+  font-family: var(--secondary-font);
   text-decoration: none;
   @include font(700, 26px, 1.19);
 

@@ -1,7 +1,6 @@
 body {
   background-color: var(--background-color);
   color: var(--main-text-color);
-
   font-family: var(--main-font);
   letter-spacing: 0.03em;
   font-size: 14px;
@@ -33,14 +32,10 @@ img {
 }
 button {
   display: block;
-
-  // margin: 0 auto;
-  // padding: 0;
   cursor: pointer;
   border: none;
   border-radius: 4px;
   font-family: inherit;
-
   color: var(--background-color);
   background-color: var(--accent-color);
 }
