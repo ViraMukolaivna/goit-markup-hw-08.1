@@ -33,7 +33,7 @@ body {
   font-size: 14px;
 }
 
-no-scroll {
+.no-scroll {
   overflow: hidden;
 }
 
